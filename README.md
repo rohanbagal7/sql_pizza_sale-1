@@ -1,1 +1,3 @@
-# sql_pizza_sale-1
+# Pizza Sales Analysis Using SQL
+
+Project repository structure generated.
